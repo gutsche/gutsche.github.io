@@ -1,15 +1,995 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Oliver Gutsche on Oliver Gutsche</title>
     <link>https://gutsche.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Oliver Gutsche on Oliver Gutsche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 22:34:34 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://gutsche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://gutsche.github.io/resume/resume/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/resume/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;resume&#34;&gt;Resume&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Link to Resume: &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/cv/resume.pdf&#34; target=&#34;_blank&#34;&gt;(PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Research Positions&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;09/2014 - Present&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Scientist&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;06/2009 – 09/2014&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Application Physicist I&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;06/2005 – 05/2009&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Research Associate&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;09/2001 – 02/2005&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Doctoral Candidate&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Deutsches Elektronen Synchrotron (DESY)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Education&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2001-2005&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;University of Hamburg&lt;/strong&gt;, &lt;em&gt;Doctor of Natural Sciences&lt;/em&gt;, Hamburg, Germany&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Thesis title&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;at the electron proton collider HERA&lt;/em&gt; &lt;a href=&#34;http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz&#34; target=&#34;_blank&#34;&gt;(link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Advisors&lt;/td&gt;
+&lt;td&gt;Prof. Dr. Robert Klanner, Dr. Achim Geiser&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Assignments&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10/2016 - present&lt;/td&gt;
+&lt;td&gt;Deputy U.S.CMS Software and Computing Operations Program manager&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/2016 - present&lt;/td&gt;
+&lt;td&gt;L2 manager for Software and Support - U.S.CMS Operations Program&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/2016 - present&lt;/td&gt;
+&lt;td&gt;Deputy Head of the Scientific Services Quadrant - Fermilab&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09/2015 – present&lt;/td&gt;
+&lt;td&gt;Focus Area Lead for Computing Infrastructure and Resources - CMS Collaboration&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;research-and-technical-experience&#34;&gt;Research and Technical Experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Joined the CMS collaboration in 2005. Research focus: search for physics beyond the Standard Model at the LHC, especially for Supersymmetry and Dark Matter.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Founding member of an analysis group with members from Fermilab/UCSD/UCSB, focusing on final states with leptons.&lt;/li&gt;
+&lt;li&gt;Supervised several Fermilab postdoctoral researchers.&lt;/li&gt;
+&lt;li&gt;Current postdoctoral researcher Matteo Cremonesi is searching for Dark Matter with the CMS detector.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Contributing to the worldwide community efforts to plan for the software and computing infrastucture for the High Luminosity LHC (HL-LHC). I was an integral part of the community planning process and my input was documented in the &lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;Roadmap for HEP Software and Computing R&amp;amp;D for the 2020s&lt;/a&gt;. In addition, I was editor of the &lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;My recent research interest in computing infrastructure explores if analysis in HEP can be conducted more efficiently using tools developed and used by industry. I am exploring using toolkits like &lt;a href=&#34;https://spark.apache.org/&#34; target=&#34;_blank&#34;&gt;Apache Spark&lt;/a&gt; or similar technologies. I created a research group spanning researchers from Fermilab, CERN and the Universities Princeton, Padova and Vanderbilt. The &lt;a href=&#34;https://cms-big-data.github.io/&#34; target=&#34;_blank&#34;&gt;CMS Big Data Project&lt;/a&gt; also very closely works together with industry, latest in a project with &lt;a href=&#34;https://www.intel.com/&#34; target=&#34;_blank&#34;&gt;Intel&lt;/a&gt; in the context of &lt;a href=&#34;https://openlab.cern/&#34; target=&#34;_blank&#34;&gt;CERN openlab&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I am currently the U.S. CMS Software and Computing Operations Program deputy manager overseeing a budget of $16M to enable analysis of U.S. collaborators of the CMS experiment. I am overseeing the operation of the U.S. CMS Tier-1 site at Fermilab and 7 U.S. Tier-2 sites at Caltech, Florida University, MIT, University of Nebraska-Lincoln, Purdue University, UC San Diego, Unversity of Wisconsin-Madison. The program also funds over 80 FTE of effort to administer the sites, maintain the computing infrastructure and conduct strategic R&amp;amp;D projects.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The CMS collaboration appointed me 2015 Focus Area Lead for Services and Infrastructure in the CMS Software and Computing project. I am coordinating the efforts of the worldwide submission infrastructure, innovative new ways of using resources at commercial clouds and supercomputing centers, and the development of computing insfrastructure services like data management and workflow management systems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the U.S. CMS Software and Computing project, I am also curently responsible for the Software and Support area. Under my guidance, the CMS software framework CMSSW is developed, as well as critical R&amp;amp;D is conducted in the areas of vectorized tracking software, machine learning and novel analysis facilities.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;publications-with-major-personal-contributions&#34;&gt;Publications with Major Personal Contributions&lt;/h2&gt;
+
+&lt;h3 id=&#34;physics&#34;&gt;Physics&lt;/h3&gt;
+
+&lt;p&gt;&lt;!--#ref-Sirunyan:2018gka--&gt;A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
+in events with energetic, hadronically decaying top quarks and missing
+transverse momentum at $\sqrt{s}=$ 13 TeV&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1801.08427&#34; target=&#34;_blank&#34;&gt;1801.08427
+[hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Khachatryan:2016ysn--&gt;V. Khachatryan et al., &lt;strong&gt;Measurements of
+$t \bar t$ charge asymmetry using dilepton final states in pp collisions
+at $\sqrt s=8$ TeV&lt;/strong&gt;, &lt;em&gt;Phys. Lett.&lt;/em&gt; B760 (2016) 365--386,
+doi:&lt;a href=&#34;https://doi.org/10.1016/j.physletb.2016.07.006&#34; target=&#34;_blank&#34;&gt;10.1016/j.physletb.2016.07.006&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1603.06221&#34; target=&#34;_blank&#34;&gt;1603.06221 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;computing&#34;&gt;Computing&lt;/h3&gt;
+
+&lt;p&gt;&lt;!--#ref-Bauerdick:2018qjx--&gt;L. Bauerdick et al., &lt;strong&gt;HEP Software
+Foundation Community White Paper Working Group - Data Analysis and
+Interpretation&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;1804.03983
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;A.A. Alves Jr et al., &lt;strong&gt;A Roadmap for HEP
+Software and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, (2017), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full List of Physics Publications with Major Personal Contributions can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Computing Publications with Major Personal Contributions can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Presentations and Talks can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/talk_list/talk_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;published on: 13. June 2018&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
     
+    <item>
+      <title></title>
+      <link>https://gutsche.github.io/cv/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/cv/cv/</guid>
+      <description>
+
+&lt;h1 id=&#34;curriculum-vitae&#34;&gt;Curriculum Vitae&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Link to Curriculum Vitae: &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/cv/cv.pdf&#34; target=&#34;_blank&#34;&gt;(PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;09/2014 - Present&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Scientist&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;06/2009 – 09/2014&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Application Physicist I&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;06/2005 – 05/2009&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Research Associate&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;09/2001 – 02/2005&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Doctoral Candidate&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Deutsches Elektronen Synchrotron (DESY)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2001-2005&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;University of Hamburg&lt;/strong&gt;, &lt;em&gt;Doctor of Natural Sciences&lt;/em&gt;, Hamburg, Germany&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Thesis title&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;at the electron proton collider HERA&lt;/em&gt; &lt;a href=&#34;http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz&#34; target=&#34;_blank&#34;&gt;(link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Advisors&lt;/td&gt;
+&lt;td&gt;Prof. Dr. Robert Klanner, Dr. Achim Geiser&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;1996 - 2001&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;University of Hamburg&lt;/strong&gt;, &lt;em&gt;Diploma in Physics&lt;/em&gt;, Hamburg, Germany&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Thesis title&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Development of the trigger algorithm for the MONOLITH experiment&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020&#34; target=&#34;_blank&#34;&gt;(link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Advisors&lt;/td&gt;
+&lt;td&gt;Prof. Dr. Robert Klanner, Dr. Achim Geiser&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
+
+&lt;h3 id=&#34;u-s-cms-software-and-computing-operations-program&#34;&gt;U.S. CMS Software and Computing Operations Program&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10/2016 - present&lt;/td&gt;
+&lt;td&gt;U.S.CMS Software and Computing Operations Deputy Program manager&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/2016 - present&lt;/td&gt;
+&lt;td&gt;L2 manager for Software and Support in the U.S. CMS Software and&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Computing Operations Program Execution Team&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;03/2014 – 09/2016&lt;/td&gt;
+&lt;td&gt;L2 manager for Operations in the Software and Computing Operations&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Program Execution Team&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;fermi-national-accelerator-laboratory-scientific-computing-division&#34;&gt;Fermi National Accelerator Laboratory - Scientific Computing Division&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10/2016 - present&lt;/td&gt;
+&lt;td&gt;Deputy Head of the Scientific Services Quadrant&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/2014 – 09/2016&lt;/td&gt;
+&lt;td&gt;Assistant Head of the Scientific Computing Division for Science&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Operations and Workflows&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/2014 – 12/2014&lt;/td&gt;
+&lt;td&gt;Interim Department Head of the Scientific Data Processing (SDP)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Department of the Scientific Services Quadrant&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/2013 – 09/2014&lt;/td&gt;
+&lt;td&gt;Deputy Department Head of the Scientific Data Processing (SDP)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Department of the Scientific Services Quadrant&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09/2012 – 09/2014&lt;/td&gt;
+&lt;td&gt;CMS Operations Group Leader in the Scientific Data Processing (SDP)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Department of the Scientific Services Quadrant&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;cms-collaboration-offline-computing-project&#34;&gt;CMS Collaboration - Offline &amp;amp; Computing Project&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09/2015 – present&lt;/td&gt;
+&lt;td&gt;CMS Offline &amp;amp; Computing Project Focus Area Lead for Infrastructure&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;and Resources&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10/2014 – 08/2015&lt;/td&gt;
+&lt;td&gt;Member of the CMS Offline &amp;amp; Computing Project Management Board&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;01/2012 – 09/2014&lt;/td&gt;
+&lt;td&gt;CMS Offline &amp;amp; Computing Project Computing Operations L2 Manager&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;07/2009 – 12/2011&lt;/td&gt;
+&lt;td&gt;CMS Offline &amp;amp; Computing Project Data Operations L2 Manager&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;01/2007 – 07/2009&lt;/td&gt;
+&lt;td&gt;CMS Offline &amp;amp; Computing Project Release Validation Manager&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;scholarships-and-awards&#34;&gt;Scholarships and Awards&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2013&lt;/td&gt;
+&lt;td&gt;CMS Young Researcher Prize&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2008&lt;/td&gt;
+&lt;td&gt;Exceptional Performance Recognition Award of Fermilab&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2003&lt;/td&gt;
+&lt;td&gt;German Academic Exchange Service scholarship&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;for an academic stay at University College London (UCL), London (Great Britain)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
+
+&lt;h3 id=&#34;cms-collaboration-2005-present&#34;&gt;CMS collaboration: 2005 – Present&lt;/h3&gt;
+
+&lt;p&gt;I joined the CMS collaboration in 2005. From the beginning, my research focus has been the search for physics beyond the Standard Model at the LHC.&lt;/p&gt;
+
+&lt;p&gt;I was a founding member of an analysis group with members from Fermilab/UCSD/UCSB, focusing on final states with leptons. The approach proved to be successful; after early publications such as a measurement of the &lt;a href=&#34;https://doi.org/10.1007/JHEP07(2011)049&#34; target=&#34;_blank&#34;&gt;top quark cross section&lt;/a&gt;, the focus shifted to new physics and beyond the Standard Model processes. We were leaders of the WW to dilepton analysis in the &lt;a href=&#34;https://doi.org/10.1016/j.physletb.2012.08.021&#34; target=&#34;_blank&#34;&gt;CMS Higgs discovery paper&lt;/a&gt;, and searches for SUSY in same-sign and opposite-sign dilepton as well as single lepton channels.&lt;/p&gt;
+
+&lt;p&gt;I have been supervising several Fermilab postdoctoral researchers pursuing my research interests.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Together with Jacob Linacre, I concentrated on exploiting the dilepton signature to search for &lt;a href=&#34;https://doi.org/10.1016/j.physletb.2012.07.059&#34; target=&#34;_blank&#34;&gt;pair production of a heavy top-like quark (t’)&lt;/a&gt;. I continued studying the properties of top quarks exploiting angular distributions of the dilepton final state. We were the first to use the dilepton final state to measure the top pair charge asymmetry at the LHC to further investigate the deviations seen at the Tevatron. We published LCH Run 1 papers for top pair spin correlations and top quark polarization for the &lt;a href=&#34;https://doi.org/10.1103/PhysRevLett.112.182001&#34; target=&#34;_blank&#34;&gt;7 TeV&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1103/PhysRevD.93.052007&#34; target=&#34;_blank&#34;&gt;8 TeV&lt;/a&gt; datasets as well as the top pair charge asymmetry for the &lt;a href=&#34;https://doi.org/10.1007/JHEP04(2014)191&#34; target=&#34;_blank&#34;&gt;7 TeV&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1016/j.physletb.2016.07.006&#34; target=&#34;_blank&#34;&gt;8 TeV&lt;/a&gt; datasets.&lt;/li&gt;
+&lt;li&gt;Together with my current Fermilab PostDoc, Matteo Cremonesi, I am searching for dark matter particles in various channels. Our first publication presented the &lt;a href=&#34;http://arxiv.org/abs/1801.08427&#34; target=&#34;_blank&#34;&gt;search for dark matter in events with energetic, hadronically decaying top quarks and missing transverse momentum&lt;/a&gt; in the 13 TeV 2016 dataset of LHC Run 2. We are now concentrating on other mono-object channels with an expanding effort at the Fermilab LHC Physics Center.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;zeus-collaboration-2001-2005&#34;&gt;ZEUS collaboration: 2001 – 2005&lt;/h3&gt;
+
+&lt;p&gt;I started my graduate research at the University of Hamburg in 2001 joining the ZEUS collaboration during the upgrade of the HERA collider and the integration of the new ZEUS micro-vertex silicon strip detector. Because of its precise tracking capabilities, I planned to use secondary vertex and impact parameter techniques to identify beauty quarks decaying into muons.&lt;/p&gt;
+
+&lt;p&gt;I first concentrated on the identification of muons. In a team of graduate students, I improved the ZEUS muon reconstruction by exploiting redundancies of the different detector components from tracking, calorimetry, to the muon detectors. I then used the complete pre-upgrade 1996-2000 dataset to extract beauty quark cross sections in photo production. I used the transverse momentum of the muon relative to a jet to identify beauty quarks and measured differential angular correlation cross sections which were found to be in agreement with NLO predictions. With the first data after the upgrade, the micro-vertex detector became available. I used the dataset from 2003-2004 to identify beauty quarks using impact parameter techniques for the first time in ZEUS. Both measurements were documented in &lt;a href=&#34;https://doi.org/10.3204/DESY-THESIS-2005-010&#34; target=&#34;_blank&#34;&gt;my thesis&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;technical-experience&#34;&gt;Technical Experience&lt;/h2&gt;
+
+&lt;p&gt;Particle physics is based on particle detection by sophisticated experimental devices and their comparison to accurate simulations. High Energy Physics (HEP) requires very large amounts of computing resources to analyze simulations and data recorded by the detectors. I have deep knowledge of planning, developing, maintaining and operating distributed computing infrastructures providing access to several hundred-thousand computing cores and many hundred of petabytes of disk space. I am intimately familiar with scientific grid sites, academic and commercial clouds and the largest supercomputers at High Performance Computing centers in the U.S. and across the world. The infrastructures execute scientific software consisting of millions of lines of C++ and python code is needed to extract physics results. I am an expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.&lt;/p&gt;
+
+&lt;p&gt;These technical aspects of my work are closely connected to my physics research, as they enable the analysis of particle physics detector data and simulations as a basis to extract physics results.&lt;/p&gt;
+
+&lt;h3 id=&#34;computing-infrastructure&#34;&gt;Computing Infrastructure&lt;/h3&gt;
+
+&lt;p&gt;Since 2017, I am employing my vast knowledge of scientific software and computing in contributing to the worldwide community efforts to plan for the software and computing infrastucture for the High Luminosity LHC (HL-LHC). Starting in 2026, the HL-LHC will produce 10 times the amount of data of the current LHC running periods. The collisions and the corresponding simulations will be many times as complex as today. I was an integral part of the community planning process and my input was documented in the &lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;Roadmap for HEP Software and Computing R&amp;amp;D for the 2020s&lt;/a&gt;. In addition, I was editor of the &lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My recent research interest in computing infrastructure is asking the question if analysis in HEP can be conducted more efficiently using tools developed and used by industry. Instead of employing the &lt;a href=&#34;https://root.cern/&#34; target=&#34;_blank&#34;&gt;ROOT&lt;/a&gt; toolkit that was entirely developed and is maintained by the HEP community, I am exploring using toolkits like &lt;a href=&#34;https://spark.apache.org/&#34; target=&#34;_blank&#34;&gt;Apache Spark&lt;/a&gt; or similar technologies. I created a research group spanning researchers from Fermilab, CERN and the Universities Princeton, Padova and Vanderbilt. The &lt;a href=&#34;https://cms-big-data.github.io/&#34; target=&#34;_blank&#34;&gt;CMS Big Data Project&lt;/a&gt; also very closely works together with industry, latest in a project with &lt;a href=&#34;https://www.intel.com/&#34; target=&#34;_blank&#34;&gt;Intel&lt;/a&gt; in the context of &lt;a href=&#34;https://openlab.cern/&#34; target=&#34;_blank&#34;&gt;CERN openlab&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am currently the U.S. CMS Software and Computing Operations Program deputy manager overseeing a budget of $16M to enable analysis of U.S. collaborators of the CMS experiment. I am overseeing the operation of the U.S. CMS Tier-1 site at Fermilab and 7 U.S. Tier-2 sites at Caltech, Florida University, MIT, University of Nebraska-Lincoln, Purdue University, UC San Diego, Unversity of Wisconsin-Madison. The program also funds over 80 FTE of effort to administer the sites, maintain the computing infrastructure and conduct strategic R&amp;amp;D projects.&lt;/p&gt;
+
+&lt;p&gt;The CMS collaboration appointed me 2015 Focus Area Lead for Services and Infrastructure in the CMS Software and Computing project. I am coordinating the efforts of the worldwide submission infrastructure, innovative new ways of using resources at commercial clouds and supercomputing centers, and the development of computing insfrastructure services like data management and workflow management systems.&lt;/p&gt;
+
+&lt;p&gt;From September 2014 to September 2016, I was appointed Assistant Scientific Computing Division Head for Science Operations and Workflows in the Scientific Computing Division of Fermilab. I was responsible for the delivery of scientific computing services to all Fermi National Accelerator Laboratory experiments including High Energy Physics experiments (e.g. CMS), Neutrino Physics experiments (e.g. NOvA, Minerva), Intensity Frontier experiments (e.g. mu2e, Muon g-2) and Astroparticle Physics experiments (e.g. DES). As member of the senior management team, I developed strategic plans to evolve the infrastructure and operational procedures. For example, I developed a new storage strategy that simplifies the operation and usage of the more than 30 PB of disk space at Fermilab. I was also responsible for maintaining the computing strategy as part of the Laboratory Strategy Effort and reported to the laboratory directorate.&lt;/p&gt;
+
+&lt;p&gt;The CMS collaboration appointed me lead of the Data Operations Project in 2009. Using my deep involvement in analysis and my expertise in computing, I was responsible for the timely delivery of all data and MC samples for analysis, a significant contribution to the overall success of the experiment. In 2012 till 2014, CMS extended my responsibilities and appointed me to lead all of the CMS Computing Operations Project, adding the care of over 60 computing centers distributed all over the world and all central computing services of CMS. I was supervising the contributions of more than 60 scientists and engineers to the Computing Operations Project worldwide. The team was overseeing the readiness of all the computing facilities and monitor both central workflows and analysis and the transfers of data and MC samples between the sites. I was a L2 manager in the U.S. CMS Software &amp;amp; Computing Operations Program responsible for Computing Operations. In this capacity and also before, I reported regularly to the funding agencies and took part in reviews of DOE and NSF.&lt;/p&gt;
+
+&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
+
+&lt;p&gt;In the U.S. CMS Software and Computing project, I am also curently responsible for the Software and Support area. Under my guidance, the CMS software framework CMSSW is developed, as well as critical R&amp;amp;D is conducted in the areas of vectorized tracking software, machine learning and novel analysis facilities.&lt;/p&gt;
+
+&lt;p&gt;Since 2005 and before the start of the LHC data taking in 2010, I was deeply involved in getting the CMS software ready for data taking. I was the lead developer of an innovative tracking algorithm that was used during the commissioning of the CMS detector. I conducted the first software tutorials in CMS teaching the basics of analysis software and how to perform analysis on the GRID to the CMS community, using a user-friendly GRID analysis tool, of which I was one of the lead developers as well.&lt;/p&gt;
+
+&lt;p&gt;During my graduate student time at DESY from 2001 to 2005, I was one of the proponents and lead developers of a new object-oriented and ROOT-based event display. The upgrade of the ZEUS detector made it necessary to integrate the new and changed detector components in the event visualization solution of ZEUS. A client-server structure allowed physicists to display events without direct access to the event store. Online events could also be displayed worldwide with very small latency during data taking.&lt;/p&gt;
+
+&lt;h2 id=&#34;physics-publications-with-major-personal-contributions&#34;&gt;Physics Publications with Major Personal Contributions&lt;/h2&gt;
+
+&lt;p&gt;&lt;!--#ref-Sirunyan:2018gka--&gt;A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
+in events with energetic, hadronically decaying top quarks and missing
+transverse momentum at $\sqrt{s}=$ 13 TeV&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1801.08427&#34; target=&#34;_blank&#34;&gt;1801.08427
+[hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Khachatryan:2016xws--&gt;V. Khachatryan et al., &lt;strong&gt;Measurements of t
+t-bar spin correlations and top quark polarization using dilepton final
+states in pp collisions at sqrt(s) = 8 TeV&lt;/strong&gt;, &lt;em&gt;Phys. Rev.&lt;/em&gt; D93 (2016)
+052007,
+doi:&lt;a href=&#34;https://doi.org/10.1103/PhysRevD.93.052007&#34; target=&#34;_blank&#34;&gt;10.1103/PhysRevD.93.052007&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1601.01107&#34; target=&#34;_blank&#34;&gt;1601.01107 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Khachatryan:2016ysn--&gt;V. Khachatryan et al., &lt;strong&gt;Measurements of
+$t \bar t$ charge asymmetry using dilepton final states in pp collisions
+at $\sqrt s=8$ TeV&lt;/strong&gt;, &lt;em&gt;Phys. Lett.&lt;/em&gt; B760 (2016) 365--386,
+doi:&lt;a href=&#34;https://doi.org/10.1016/j.physletb.2016.07.006&#34; target=&#34;_blank&#34;&gt;10.1016/j.physletb.2016.07.006&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1603.06221&#34; target=&#34;_blank&#34;&gt;1603.06221 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Chatrchyan:2013wua--&gt;S. Chatrchyan et al., &lt;strong&gt;Measurements of
+$t\bar{t}$ spin correlations and top-quark polarization using dilepton
+final states in $pp$ collisions at $\sqrt{s}$ = 7 TeV&lt;/strong&gt;, &lt;em&gt;Phys. Rev.
+Lett.&lt;/em&gt; 112 (2014) 182001,
+doi:&lt;a href=&#34;https://doi.org/10.1103/PhysRevLett.112.182001&#34; target=&#34;_blank&#34;&gt;10.1103/PhysRevLett.112.182001&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1311.3924&#34; target=&#34;_blank&#34;&gt;1311.3924 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Chatrchyan:2014yta--&gt;S. Chatrchyan et al., &lt;strong&gt;Measurements of the
+$t\bar{t}$ charge asymmetry using the dilepton decay channel in pp
+collisions at $\sqrt{s} =$ 7 TeV&lt;/strong&gt;, &lt;em&gt;JHEP&lt;/em&gt;. 04 (2014) 191,
+doi:&lt;a href=&#34;https://doi.org/10.1007/JHEP04(2014)191&#34; target=&#34;_blank&#34;&gt;10.1007/JHEP04(2014)191&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1402.3803&#34; target=&#34;_blank&#34;&gt;1402.3803 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Chatrchyan:2012xdj--&gt;S. Chatrchyan et al., &lt;strong&gt;Observation of a new
+boson at a mass of 125 GeV with the CMS experiment at the LHC&lt;/strong&gt;, &lt;em&gt;Phys.
+Lett.&lt;/em&gt; B716 (2012) 30--61,
+doi:&lt;a href=&#34;https://doi.org/10.1016/j.physletb.2012.08.021&#34; target=&#34;_blank&#34;&gt;10.1016/j.physletb.2012.08.021&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1207.7235&#34; target=&#34;_blank&#34;&gt;1207.7235 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;computing-publications-with-major-personal-contributions&#34;&gt;Computing Publications with Major Personal Contributions&lt;/h2&gt;
+
+&lt;p&gt;&lt;!--#ref-Bauerdick:2018qjx--&gt;L. Bauerdick et al., &lt;strong&gt;HEP Software
+Foundation Community White Paper Working Group - Data Analysis and
+Interpretation&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;1804.03983
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;A.A. Alves Jr et al., &lt;strong&gt;A Roadmap for HEP
+Software and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, (2017), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017ccj--&gt;O. Gutsche et al., &lt;strong&gt;CMS Analysis and Data
+Reduction with Apache Spark&lt;/strong&gt;, in: &lt;strong&gt;18th International Workshop on
+Advanced Computing and Analysis Techniques in Physics Research (ACAT
+2017) Seattle, WA, USA, August 21-25, 2017&lt;/strong&gt;, 2017.
+&lt;a href=&#34;http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf&#34; target=&#34;_blank&#34;&gt;http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1711.00375&#34; target=&#34;_blank&#34;&gt;1711.00375 [cs.DC]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017weq--&gt;O. Gutsche et al., &lt;strong&gt;Big Data in HEP: A
+comprehensive use case study&lt;/strong&gt;, &lt;em&gt;J. Phys. Conf. Ser.&lt;/em&gt; 898 (2017) 072012,
+doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/898/7/072012&#34; target=&#34;_blank&#34;&gt;10.1088/1742-6596/898/7/072012&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1703.04171&#34; target=&#34;_blank&#34;&gt;1703.04171 [cs.DC]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Holzman:2017jgg--&gt;B. Holzman et al., &lt;strong&gt;HEPCloud, a New Paradigm
+for HEP Facilities: CMS Amazon Web Services Investigation&lt;/strong&gt;, &lt;em&gt;Comput.
+Softw. Big Sci.&lt;/em&gt; 1 (2017) 1,
+doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-017-0001-9&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-017-0001-9&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1710.00100&#34; target=&#34;_blank&#34;&gt;1710.00100 [cs.DC]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Habib:2016sce--&gt;S. Habib et al., &lt;strong&gt;ASCR/HEP Exascale Requirements
+Review Report&lt;/strong&gt;, (2016), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1603.09303&#34; target=&#34;_blank&#34;&gt;1603.09303
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Garzoglio:2015ajq--&gt;G. Garzoglio et al., &lt;strong&gt;Diversity in Computing
+Technologies and Strategies for Dynamic Resource Allocation&lt;/strong&gt;, &lt;em&gt;J. Phys.
+Conf. Ser.&lt;/em&gt; 664 (2015) 012001,
+doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/664/1/012001&#34; target=&#34;_blank&#34;&gt;10.1088/1742-6596/664/1/012001&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Habib:2015paq--&gt;T. LeCompte et al., &lt;strong&gt;High Energy Physics Forum
+for Computational Excellence: Working Group Reports (I. Applications
+Software II. Software Libraries and Tools III. Systems)&lt;/strong&gt;, (2015),
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1510.08545&#34; target=&#34;_blank&#34;&gt;1510.08545 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;list-of-presentation-and-talks&#34;&gt;List of Presentation and Talks&lt;/h2&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2018aab--&gt;O. Gutsche, &lt;strong&gt;The Future of Large Scale
+Scientific Computing&lt;/strong&gt;, (2018),
+&lt;a href=&#34;http://www.physics.umass.edu/events/2018-04-06-future-large-scale-scientific-computing&#34; target=&#34;_blank&#34;&gt;Colloquium&lt;/a&gt;
+given at the Physics Department at the University of Massachusetts
+Amherst, &lt;a href=&#34;http://bit.ly/2HfW3T9&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017aai--&gt;O. Gutsche, &lt;strong&gt;The Future of Large Scale
+Scientific Computing&lt;/strong&gt;, (2017),
+&lt;a href=&#34;http://www.depts.ttu.edu/phas/News_and_Events/Colloquia/F2017_abs/Colloquium10-24-17_Gutsche.pdf&#34; target=&#34;_blank&#34;&gt;Colloquium&lt;/a&gt;
+given at the Department of Physics and Astronomy at Texas Tech
+University, &lt;a href=&#34;https://goo.gl/iGtivw&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017aah--&gt;O. Gutsche, &lt;strong&gt;Particle Physics - A world wide
+journey from recording particles to analysis using big computing&lt;/strong&gt;,
+(2017), Plenary Talk at the Chicago Council on Science &amp;amp; Technology
+Panel: &lt;a href=&#34;http://www.c2st.org/event/2017/09/fermilab-and-new-frontiers-physics&#34; target=&#34;_blank&#34;&gt;Fermilab and the New Frontiers of
+Physics&lt;/a&gt;,
+&lt;a href=&#34;https://goo.gl/wDB5SU&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017aag--&gt;O. Gutsche, &lt;strong&gt;CMS Analysis and Data Reduction
+with Apache Spark&lt;/strong&gt;, (2017), Parallel Session Talk at the 18th
+International Workshop on Advanced Computing and Analysis Techniques in
+Physics Research &lt;a href=&#34;https://indico.cern.ch/event/567550/&#34; target=&#34;_blank&#34;&gt;(ACAT 2017)&lt;/a&gt;,
+&lt;a href=&#34;https://indico.cern.ch/event/567550/contributions/2629602/attachments/1511348/2357033/170822_-_ACAT2017_-_Gutsche_-_CMS_Analysis_and_Data_Reduction_with_Apache_Spark.pdf&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017aaf--&gt;O. Gutsche, &lt;strong&gt;50 years Fermilab - Computing
+Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
+&lt;a href=&#34;https://indico.fnal.gov/event/12923/other-view?view=standard&#34; target=&#34;_blank&#34;&gt;Symposium&lt;/a&gt;,
+&lt;a href=&#34;https://indico.fnal.gov/event/12923/session/7/contribution/38/material/slides/0.pdf&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;list-of-articles-and-media-mentionings&#34;&gt;List of Articles and Media Mentionings&lt;/h2&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017aac--&gt;A. Purcell, &lt;strong&gt;Oliver Gutsche: Fermilab joins
+CERN openlab, works on data reduction project with CMS experiment&lt;/strong&gt;,
+(2017), Article in &lt;a href=&#34;http://openlab.cern/news&#34; target=&#34;_blank&#34;&gt;CERN openlab News&lt;/a&gt;,
+&lt;a href=&#34;http://openlab.cern/news/fermilab-joins-cern-openlab-works-?data-reduction?-project-cms-experiment-0&#34; target=&#34;_blank&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017aaa--&gt;M. May, &lt;strong&gt;Oliver Gutsche: A Spark in the
+dark&lt;/strong&gt;, (2017), Article in &lt;a href=&#34;http://ascr-discovery.science.doe.gov&#34; target=&#34;_blank&#34;&gt;ASCR
+Discovery&lt;/a&gt;,
+&lt;a href=&#34;http://ascr-discovery.science.doe.gov/2017/10/a-spark-in-the-dark/&#34; target=&#34;_blank&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!--#ref-Gutsche:2017aab--&gt;M. May, &lt;strong&gt;Oliver Gutsche: Open-source software
+for data from high-energy physics&lt;/strong&gt;, (2017), Article in
+&lt;a href=&#34;https://phys.org&#34; target=&#34;_blank&#34;&gt;Phys.Org&lt;/a&gt;,
+&lt;a href=&#34;https://phys.org/news/2017-10-open-source-software-high-energy-physics.html&#34; target=&#34;_blank&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full List of Physics Publications with Major Personal Contributions can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Computing Publications with Major Personal Contributions can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Publications from all Collaborations and Experiments can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Presentations and Talks can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/talk_list/talk_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Articles and Media Mentionings can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
+]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;published on: 13. June 2018&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gutsche.github.io/cv/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/cv/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gutsche.github.io/resume/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/resume/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://gutsche.github.io/posts/cv/</link>
+      <pubDate>Sun, 10 Jun 2018 22:34:34 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/posts/cv/</guid>
+      <description>
+
+&lt;p&gt;| | |
+|:----|-:|
+| Oliver Gutsche                                                        | &lt;img src=&#34;letter.png&#34; alt=&#34;&#34; /&gt;{ height=10px } &lt;a href=&#34;mailto:gutsche@fnal.gov&#34; target=&#34;_blank&#34;&gt;gutsche@fnal.gov&lt;/a&gt; |
+| Fermi National Accelerator Laboratory / Scientific Computing Division | &lt;img src=&#34;linkedin.png&#34; alt=&#34;&#34; /&gt;{ height=10px } &lt;a href=&#34;https://www.linkedin.com/in/gutsche&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; |
+| P.O. Box 500 / MS. 205, Batavia, IL, 60510                            | &lt;img src=&#34;inspire.png&#34; alt=&#34;&#34; /&gt;{ height=10px } &lt;a href=&#34;https://inspirehep.net/author/profile/O.Gutsche.1&#34; target=&#34;_blank&#34;&gt;InSpire&lt;/a&gt; |
+| +1-630-840-8909                                                       | &lt;img src=&#34;orcid.png&#34; alt=&#34;&#34; /&gt;{ height=10px } &lt;a href=&#34;https://orcid.org/0000-0002-8015-9622&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt; |&lt;/p&gt;
+
+&lt;p&gt;I am a particle physicist and conduct &lt;strong&gt;leading edge research&lt;/strong&gt; for New Physics Beyond the Standard Model of Particle Physics. This goes hand in hand with further consolidating the validity of the Standard Model in the absence of new physics signals.&lt;/p&gt;
+
+&lt;p&gt;I have multiple years of experience in analyzing high-energy collisions at different particle colliders using a multitude of different techniques. I have &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/complete_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;published many papers in leading journals&lt;/strong&gt;&lt;/a&gt; and am currently a member of the CMS collaboration at the Large Hadron Collider (LHC) at &lt;a href=&#34;https://home.cern/&#34; target=&#34;_blank&#34;&gt;CERN&lt;/a&gt;. In my recent studies at the LHC, I have lead searches for evidence of physics beyond the Standard Model using top quarks, and contributed to searches for Supersymmetry and Dark Matter. One of my most noticeable publications is the &lt;a href=&#34;https://doi.org/10.1016/j.physletb.2012.08.021&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Observation of the Higgs Boson in 2012&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am a &lt;strong&gt;leader in scientific computing&lt;/strong&gt; and have acquired deep knowledge and expertise in scientific software and computing. Particle physics is based on particle detection by sophisticated experimental devices and their comparison to accurate simulations. Scientific software consists of millions of lines of C++ and python code and is needed to extract these physics results. I am an expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques. High Energy Physics (HEP) requires very large amounts of computing resources to analyze simulations and data recorded by the detectors. I have deep experience in planning, developing, and operating distributed computing infrastructures that provide access to several hundred-thousand computing cores and hundreds of petabytes of disk space. I am intimately familiar with scientific grid sites, academic and commercial clouds and the largest U.S. supercomputers . Recently I was part of a worldwide community planning process for the software and computing infrastructure of the High Luminosity LHC (HL-LHC, 2016). The upgraded machine and detectors will require 20 times as much computing resources as today. The goal of the community planning exercise is to reduce this increase significantly through disruptive changes to software and computing. Examples are new analysis paradigms using industry technologies like Apache Spark, and vectorized and SIMD programming technologies and machine learning approaches to exploit new hardware architectures like accelerators and GPUs. I contributed to the &lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;overview white paper of the community&lt;/a&gt; and was editor of the topical white paper about the future of &lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;data analysis in High Energy Physics&lt;/a&gt;. This follows my recent interest to use idustry technologies for petabyte scale analysis and I started the &lt;a href=&#34;https://cms-big-data.github.io/&#34; target=&#34;_blank&#34;&gt;CMS Big Data Project&lt;/a&gt;. One component is the collaboration with Intel on scaling of analysis facilities to Petabytes. Fermilab recently joined &lt;a href=&#34;https://openlab.cern/&#34; target=&#34;_blank&#34;&gt;CERN openlab&lt;/a&gt; to make this collaboration a possibility.&lt;/p&gt;
+
+&lt;p&gt;I held many management positions at the Fermi National Accelerator Laboratory and within the international CMS collaboration, supervising up to 100 individuals across many time zones. In September 2016, I was appointed &lt;strong&gt;U.S.CMS Software and Computing Operations Deputy Program manager, overseeing a budget of $16M&lt;/strong&gt; to enable analysis of LHC particle collisions in the U.S. for the 2500 physicist strong CMS collaboration.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Research Positions&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;09/2014 - Present&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Scientist&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;06/2009 – 09/2014&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Application Physicist I&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;06/2005 – 05/2009&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Research Associate&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fermi National Accelerator Laboratory (Fermilab)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;09/2001 – 02/2005&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Doctoral Candidate&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Deutsches Elektronen Synchrotron (DESY)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;\newpage&lt;/p&gt;
+
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;p&gt;| | |
+|:-|:---------|
+| &lt;strong&gt;2001-2005&lt;/strong&gt;    | &lt;strong&gt;University of Hamburg&lt;/strong&gt;, &lt;em&gt;Doctor of Natural Sciences&lt;/em&gt;, Hamburg, Germany |
+| Thesis title | &lt;a href=&#34;http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment at the electron proton collider HERA&lt;/em&gt;&lt;/a&gt; |
+| Advisors     | Prof. Dr. Robert Klanner, Dr. Achim Geiser |&lt;/p&gt;
+
+&lt;p&gt;| | |
+|:-|:---------|
+| &lt;strong&gt;1996 - 2001&lt;/strong&gt; | &lt;strong&gt;University of Hamburg&lt;/strong&gt;, &lt;em&gt;Diploma in Physics&lt;/em&gt;, Hamburg, Germany |
+| Thesis title | &lt;a href=&#34;http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Development of the trigger algorithm for the MONOLITH experiment&lt;/em&gt;&lt;/a&gt; |
+| Advisors     | Prof. Dr. Robert Klanner, Dr. Achim Geiser |&lt;/p&gt;
+
+&lt;h1 id=&#34;assignments&#34;&gt;Assignments&lt;/h1&gt;
+
+&lt;h3 id=&#34;u-s-cms-software-and-computing-operations-program&#34;&gt;U.S. CMS Software and Computing Operations Program&lt;/h3&gt;
+
+&lt;p&gt;| | |
+|:-|:---------|
+| 10/2016 - present | U.S.CMS Software and Computing Operations Deputy Program manager |
+| 10/2016 - present | L2 manager for Software and Support in the U.S. CMS Software and Computing Operations Program Execution Team |
+| 03/2014 – 09/2016 | L2 manager for Operations in the Software and Computing Operations Program Execution Team |&lt;/p&gt;
+
+&lt;h3 id=&#34;fermi-national-accelerator-laboratory-scientific-computing-division&#34;&gt;Fermi National Accelerator Laboratory - Scientific Computing Division&lt;/h3&gt;
+
+&lt;p&gt;| | |
+|:-|:---------|
+| 10/2016 - present | Deputy Head of the Scientific Services Quadrant |
+| 10/2014 – 09/2016 |   Assistant Head of the Scientific Computing Division for Science Operations and Workflows |
+| 10/2014 – 12/2014 | Interim Department Head of the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |
+| 10/2013 – 09/2014 | Deputy Department Head of the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |
+| 09/2012 – 09/2014 | CMS Operations Group Leader in the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |&lt;/p&gt;
+
+&lt;h3 id=&#34;cms-collaboration-offline-computing-project&#34;&gt;CMS Collaboration - Offline &amp;amp; Computing Project&lt;/h3&gt;
+
+&lt;p&gt;| | |
+|:-|:---------|
+| 09/2015 – present | CMS Offline &amp;amp; Computing Project Focus Area Lead for Infrastructure and Resources |
+| 10/2014 – 08/2015 | Member of the CMS Offline &amp;amp; Computing Project Management Board |
+| 01/2012 – 09/2014 | CMS Offline &amp;amp; Computing Project Computing Operations L2 Manager |
+| 07/2009 – 12/2011 | CMS Offline &amp;amp; Computing Project Data Operations L2 Manager |
+| 01/2007 – 07/2009 | CMS Offline &amp;amp; Computing Project Release Validation Manager |&lt;/p&gt;
+
+&lt;h1 id=&#34;scholarships-and-awards&#34;&gt;Scholarships and Awards&lt;/h1&gt;
+
+&lt;p&gt;| | |
+|:-|:---------|
+| 2013 | CMS Young Researcher Prize |
+| 2008 | Exceptional Performance Recognition Award of Fermilab |
+| 2003 | German Academic Exchange Service scholarship for an academic stay at University College London (UCL), London (Great Britain) |&lt;/p&gt;
+
+&lt;h1 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h1&gt;
+
+&lt;h3 id=&#34;cms-collaboration-2005-present&#34;&gt;CMS collaboration: 2005 – Present&lt;/h3&gt;
+
+&lt;p&gt;I joined the CMS collaboration in 2005. From the beginning, my research focus has been the search for physics beyond the Standard Model at the LHC.&lt;/p&gt;
+
+&lt;p&gt;I was a founding member of an analysis group with members from Fermilab/UCSD/UCSB, focusing on final states with leptons. The approach proved to be successful; after early publications such as a measurement of the &lt;a href=&#34;https://doi.org/10.1007/JHEP07(2011)049&#34; target=&#34;_blank&#34;&gt;top quark cross section&lt;/a&gt;, the focus shifted to new physics and beyond the Standard Model processes. We were leaders of the WW to dilepton analysis in the &lt;a href=&#34;https://doi.org/10.1016/j.physletb.2012.08.021&#34; target=&#34;_blank&#34;&gt;CMS Higgs discovery paper&lt;/a&gt;, and searches for SUSY in same-sign and opposite-sign dilepton as well as single lepton channels.&lt;/p&gt;
+
+&lt;p&gt;I have been supervising several Fermilab postdoctoral researchers pursuing my research interests.
+* Together with Jacob Linacre, I concentrated on exploiting the dilepton signature to search for &lt;a href=&#34;https://doi.org/10.1016/j.physletb.2012.07.059&#34; target=&#34;_blank&#34;&gt;pair production of a heavy top-like quark (t’)&lt;/a&gt;. I continued studying the properties of top quarks exploiting angular distributions of the dilepton final state. We were the first to use the dilepton final state to measure the top pair charge asymmetry at the LHC to further investigate the deviations seen at the Tevatron. We published LCH Run 1 papers for top pair spin correlations and top quark polarization for the &lt;a href=&#34;https://doi.org/10.1103/PhysRevLett.112.182001&#34; target=&#34;_blank&#34;&gt;7 TeV&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1103/PhysRevD.93.052007&#34; target=&#34;_blank&#34;&gt;8 TeV&lt;/a&gt; datasets as well as the top pair charge asymmetry for the &lt;a href=&#34;https://doi.org/10.1007/JHEP04(2014)191&#34; target=&#34;_blank&#34;&gt;7 TeV&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1016/j.physletb.2016.07.006&#34; target=&#34;_blank&#34;&gt;8 TeV&lt;/a&gt; datasets.
+* Together with my current Fermilab PostDoc, Matteo Cremonesi, I am searching for dark matter particles in various channels. Our first publication presented the &lt;a href=&#34;http://arxiv.org/abs/1801.08427&#34; target=&#34;_blank&#34;&gt;search for dark matter in events with energetic, hadronically decaying top quarks and missing transverse momentum&lt;/a&gt; in the 13 TeV 2016 dataset of LHC Run 2. We are now concentrating on other mono-object channels with an expanding effort at the Fermilab LHC Physics Center.&lt;/p&gt;
+
+&lt;h3 id=&#34;zeus-collaboration-2001-2005&#34;&gt;ZEUS collaboration: 2001 – 2005&lt;/h3&gt;
+
+&lt;p&gt;I started my graduate research at the University of Hamburg in 2001 joining the ZEUS collaboration during the upgrade of the HERA collider and the integration of the new ZEUS micro-vertex silicon strip detector. Because of its precise tracking capabilities, I planned to use secondary vertex and impact parameter techniques to identify beauty quarks decaying into muons.&lt;/p&gt;
+
+&lt;p&gt;I first concentrated on the identification of muons. In a team of graduate students, I improved the ZEUS muon reconstruction by exploiting redundancies of the different detector components from tracking, calorimetry, to the muon detectors. I then used the complete pre-upgrade 1996-2000 dataset to extract beauty quark cross sections in photo production. I used the transverse momentum of the muon relative to a jet to identify beauty quarks and measured differential angular correlation cross sections which were found to be in agreement with NLO predictions. With the first data after the upgrade, the micro-vertex detector became available. I used the dataset from 2003-2004 to identify beauty quarks using impact parameter techniques for the first time in ZEUS. Both measurements were documented in &lt;a href=&#34;https://doi.org/10.3204/DESY-THESIS-2005-010&#34; target=&#34;_blank&#34;&gt;my thesis&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;technical-experience&#34;&gt;Technical Experience&lt;/h1&gt;
+
+&lt;p&gt;Particle physics is based on particle detection by sophisticated experimental devices and their comparison to accurate simulations. High Energy Physics (HEP) requires very large amounts of computing resources to analyze simulations and data recorded by the detectors. I have deep knowledge of planning, developing, maintaining and operating distributed computing infrastructures providing access to several hundred-thousand computing cores and many hundred of petabytes of disk space. I am intimately familiar with scientific grid sites, academic and commercial clouds and the largest supercomputers at High Performance Computing centers in the U.S. and across the world. The infrastructures execute scientific software consisting of millions of lines of C++ and python code is needed to extract physics results. I am an expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.&lt;/p&gt;
+
+&lt;p&gt;These technical aspects of my work are closely connected to my physics research, as they enable the analysis of particle physics detector data and simulations as a basis to extract physics results.&lt;/p&gt;
+
+&lt;h3 id=&#34;computing-infrastructure&#34;&gt;Computing Infrastructure&lt;/h3&gt;
+
+&lt;p&gt;Since 2017, I am employing my vast knowledge of scientific software and computing in contributing to the worldwide community efforts to plan for the software and computing infrastucture for the High Luminosity LHC (HL-LHC). Starting in 2026, the HL-LHC will produce 10 times the amount of data of the current LHC running periods. The collisions and the corresponding simulations will be many times as complex as today. I was an integral part of the community planning process and my input was documented in the &lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;Roadmap for HEP Software and Computing R&amp;amp;D for the 2020s&lt;/a&gt;. In addition, I was editor of the &lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My recent research interest in computing infrastructure is asking the question if analysis in HEP can be conducted more efficiently using tools developed and used by industry. Instead of employing the &lt;a href=&#34;https://root.cern/&#34; target=&#34;_blank&#34;&gt;ROOT&lt;/a&gt; toolkit that was entirely developed and is maintained by the HEP community, I am exploring using toolkits like &lt;a href=&#34;https://spark.apache.org/&#34; target=&#34;_blank&#34;&gt;Apache Spark&lt;/a&gt; or similar technologies. I created a research group spanning researchers from Fermilab, CERN and the Universities Princeton, Padova and Vanderbilt. The &lt;a href=&#34;https://cms-big-data.github.io/&#34; target=&#34;_blank&#34;&gt;CMS Big Data Project&lt;/a&gt; also very closely works together with industry, latest in a project with &lt;a href=&#34;https://www.intel.com/&#34; target=&#34;_blank&#34;&gt;Intel&lt;/a&gt; in the context of &lt;a href=&#34;https://openlab.cern/&#34; target=&#34;_blank&#34;&gt;CERN openlab&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am currently the U.S. CMS Software and Computing Operations Program deputy manager overseeing a budget of $16M to enable analysis of U.S. collaborators of the CMS experiment. I am overseeing the operation of the U.S. CMS Tier-1 site at Fermilab and 7 U.S. Tier-2 sites at Caltech, Florida University, MIT, University of Nebraska-Lincoln, Purdue University, UC San Diego, Unversity of Wisconsin-Madison. The program also funds over 80 FTE of effort to administer the sites, maintain the computing infrastructure and conduct strategic R&amp;amp;D projects.&lt;/p&gt;
+
+&lt;p&gt;The CMS collaboration appointed me 2015 Focus Area Lead for Services and Infrastructure in the CMS Software and Computing project. I am coordinating the efforts of the worldwide submission infrastructure, innovative new ways of using resources at commercial clouds and supercomputing centers, and the development of computing insfrastructure services like data management and workflow management systems.&lt;/p&gt;
+
+&lt;p&gt;From September 2014 to September 2016, I was appointed Assistant Scientific Computing Division Head for Science Operations and Workflows in the Scientific Computing Division of Fermilab. I was responsible for the delivery of scientific computing services to all Fermi National Accelerator Laboratory experiments including High Energy Physics experiments (e.g. CMS), Neutrino Physics experiments (e.g. NOvA, Minerva), Intensity Frontier experiments (e.g. mu2e, Muon g-2) and Astroparticle Physics experiments (e.g. DES). As member of the senior management team, I developed strategic plans to evolve the infrastructure and operational procedures. For example, I developed a new storage strategy that simplifies the operation and usage of the more than 30 PB of disk space at Fermilab. I was also responsible for maintaining the computing strategy as part of the Laboratory Strategy Effort and reported to the laboratory directorate.&lt;/p&gt;
+
+&lt;p&gt;The CMS collaboration appointed me lead of the Data Operations Project in 2009. Using my deep involvement in analysis and my expertise in computing, I was responsible for the timely delivery of all data and MC samples for analysis, a significant contribution to the overall success of the experiment. In 2012 till 2014, CMS extended my responsibilities and appointed me to lead all of the CMS Computing Operations Project, adding the care of over 60 computing centers distributed all over the world and all central computing services of CMS. I was supervising the contributions of more than 60 scientists and engineers to the Computing Operations Project worldwide. The team was overseeing the readiness of all the computing facilities and monitor both central workflows and analysis and the transfers of data and MC samples between the sites. I was a L2 manager in the U.S. CMS Software &amp;amp; Computing Operations Program responsible for Computing Operations. In this capacity and also before, I reported regularly to the funding agencies and took part in reviews of DOE and NSF.&lt;/p&gt;
+
+&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
+
+&lt;p&gt;In the U.S. CMS Software and Computing project, I am also curently responsible for the Software and Support area. Under my guidance, the CMS software framework CMSSW is developed, as well as critical R&amp;amp;D is conduected in the areas of vectorized tracking software, machine learning and novel analysis facilities.&lt;/p&gt;
+
+&lt;p&gt;Since 2005 and before the start of the LHC data taking in 2010, I was deeply involved in getting the CMS software ready for data taking. I was the lead developer of an innovative tracking algorithm that was used during the commissioning of the CMS detector. I conducted the first software tutorials in CMS teaching the basics of analysis software and how to perform analysis on the GRID to the CMS community, using a user-friendly GRID analysis tool, of which I was one of the lead developers as well.&lt;/p&gt;
+
+&lt;p&gt;During my graduate student time at DESY from 2001 to 2005, I was one of the proponents and lead developers of a new object-oriented and ROOT-based event display. The upgrade of the ZEUS detector made it necessary to integrate the new and changed detector components in the event visualization solution of ZEUS. A client-server structure allowed physicists to display events without direct access to the event store. Online events could also be displayed worldwide with very small latency during data taking.&lt;/p&gt;
+
+&lt;h1 id=&#34;physics-publications-with-major-personal-contributions&#34;&gt;Physics Publications with Major Personal Contributions&lt;/h1&gt;
+
+&lt;p&gt;[]{#ref-Sirunyan:2018gka} A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
+in events with energetic, hadronically decaying top quarks and missing
+transverse momentum at $\sqrt{s}=$ 13 TeV&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1801.08427&#34; target=&#34;_blank&#34;&gt;1801.08427
+[hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Khachatryan:2016xws} V. Khachatryan et al., &lt;strong&gt;Measurements of t
+t-bar spin correlations and top quark polarization using dilepton final
+states in pp collisions at sqrt(s) = 8 TeV&lt;/strong&gt;, &lt;em&gt;Phys. Rev.&lt;/em&gt; D93 (2016)
+052007,
+doi:&lt;a href=&#34;https://doi.org/10.1103/PhysRevD.93.052007&#34; target=&#34;_blank&#34;&gt;10.1103/PhysRevD.93.052007&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1601.01107&#34; target=&#34;_blank&#34;&gt;1601.01107 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Khachatryan:2016ysn} V. Khachatryan et al., &lt;strong&gt;Measurements of
+$t \bar t$ charge asymmetry using dilepton final states in pp collisions
+at $\sqrt s=8$ TeV&lt;/strong&gt;, &lt;em&gt;Phys. Lett.&lt;/em&gt; B760 (2016) 365--386,
+doi:&lt;a href=&#34;https://doi.org/10.1016/j.physletb.2016.07.006&#34; target=&#34;_blank&#34;&gt;10.1016/j.physletb.2016.07.006&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1603.06221&#34; target=&#34;_blank&#34;&gt;1603.06221 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Chatrchyan:2013wua} S. Chatrchyan et al., &lt;strong&gt;Measurements of
+$t\bar{t}$ spin correlations and top-quark polarization using dilepton
+final states in $pp$ collisions at $\sqrt{s}$ = 7 TeV&lt;/strong&gt;, &lt;em&gt;Phys. Rev.
+Lett.&lt;/em&gt; 112 (2014) 182001,
+doi:&lt;a href=&#34;https://doi.org/10.1103/PhysRevLett.112.182001&#34; target=&#34;_blank&#34;&gt;10.1103/PhysRevLett.112.182001&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1311.3924&#34; target=&#34;_blank&#34;&gt;1311.3924 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Chatrchyan:2014yta} S. Chatrchyan et al., &lt;strong&gt;Measurements of the
+$t\bar{t}$ charge asymmetry using the dilepton decay channel in pp
+collisions at $\sqrt{s} =$ 7 TeV&lt;/strong&gt;, &lt;em&gt;JHEP&lt;/em&gt;. 04 (2014) 191,
+doi:&lt;a href=&#34;https://doi.org/10.1007/JHEP04(2014)191&#34; target=&#34;_blank&#34;&gt;10.1007/JHEP04(2014)191&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1402.3803&#34; target=&#34;_blank&#34;&gt;1402.3803 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Chatrchyan:2012xdj} S. Chatrchyan et al., &lt;strong&gt;Observation of a new
+boson at a mass of 125 GeV with the CMS experiment at the LHC&lt;/strong&gt;, &lt;em&gt;Phys.
+Lett.&lt;/em&gt; B716 (2012) 30--61,
+doi:&lt;a href=&#34;https://doi.org/10.1016/j.physletb.2012.08.021&#34; target=&#34;_blank&#34;&gt;10.1016/j.physletb.2012.08.021&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1207.7235&#34; target=&#34;_blank&#34;&gt;1207.7235 [hep-ex]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;computing-publications-with-major-personal-contributions&#34;&gt;Computing Publications with Major Personal Contributions&lt;/h1&gt;
+
+&lt;p&gt;[]{#ref-Bauerdick:2018qjx} L. Bauerdick et al., &lt;strong&gt;HEP Software
+Foundation Community White Paper Working Group - Data Analysis and
+Interpretation&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;1804.03983
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Alves:2017she} A.A. Alves Jr et al., &lt;strong&gt;A Roadmap for HEP
+Software and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, (2017), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017ccj} O. Gutsche et al., &lt;strong&gt;CMS Analysis and Data
+Reduction with Apache Spark&lt;/strong&gt;, in: &lt;strong&gt;18th International Workshop on
+Advanced Computing and Analysis Techniques in Physics Research (ACAT
+2017) Seattle, WA, USA, August 21-25, 2017&lt;/strong&gt;, 2017.
+&lt;a href=&#34;http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf&#34; target=&#34;_blank&#34;&gt;http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1711.00375&#34; target=&#34;_blank&#34;&gt;1711.00375 [cs.DC]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017weq} O. Gutsche et al., &lt;strong&gt;Big Data in HEP: A
+comprehensive use case study&lt;/strong&gt;, &lt;em&gt;J. Phys. Conf. Ser.&lt;/em&gt; 898 (2017) 072012,
+doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/898/7/072012&#34; target=&#34;_blank&#34;&gt;10.1088/1742-6596/898/7/072012&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1703.04171&#34; target=&#34;_blank&#34;&gt;1703.04171 [cs.DC]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Holzman:2017jgg} B. Holzman et al., &lt;strong&gt;HEPCloud, a New Paradigm
+for HEP Facilities: CMS Amazon Web Services Investigation&lt;/strong&gt;, &lt;em&gt;Comput.
+Softw. Big Sci.&lt;/em&gt; 1 (2017) 1,
+doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-017-0001-9&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-017-0001-9&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1710.00100&#34; target=&#34;_blank&#34;&gt;1710.00100 [cs.DC]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Habib:2016sce} S. Habib et al., &lt;strong&gt;ASCR/HEP Exascale Requirements
+Review Report&lt;/strong&gt;, (2016), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1603.09303&#34; target=&#34;_blank&#34;&gt;1603.09303
+[physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Garzoglio:2015ajq} G. Garzoglio et al., &lt;strong&gt;Diversity in Computing
+Technologies and Strategies for Dynamic Resource Allocation&lt;/strong&gt;, &lt;em&gt;J. Phys.
+Conf. Ser.&lt;/em&gt; 664 (2015) 012001,
+doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/664/1/012001&#34; target=&#34;_blank&#34;&gt;10.1088/1742-6596/664/1/012001&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Habib:2015paq} T. LeCompte et al., &lt;strong&gt;High Energy Physics Forum
+for Computational Excellence: Working Group Reports (I. Applications
+Software II. Software Libraries and Tools III. Systems)&lt;/strong&gt;, (2015),
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1510.08545&#34; target=&#34;_blank&#34;&gt;1510.08545 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;list-of-presentation-and-talks&#34;&gt;List of Presentation and Talks&lt;/h1&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2018aab} O. Gutsche, &lt;strong&gt;The Future of Large Scale
+Scientific Computing&lt;/strong&gt;, (2018),
+&lt;a href=&#34;http://www.physics.umass.edu/events/2018-04-06-future-large-scale-scientific-computing&#34; target=&#34;_blank&#34;&gt;Colloquium&lt;/a&gt;
+given at the Physics Department at the University of Massachusetts
+Amherst, &lt;a href=&#34;http://bit.ly/2HfW3T9&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017aai} O. Gutsche, &lt;strong&gt;The Future of Large Scale
+Scientific Computing&lt;/strong&gt;, (2017),
+&lt;a href=&#34;http://www.depts.ttu.edu/phas/News_and_Events/Colloquia/F2017_abs/Colloquium10-24-17_Gutsche.pdf&#34; target=&#34;_blank&#34;&gt;Colloquium&lt;/a&gt;
+given at the Department of Physics and Astronomy at Texas Tech
+University, &lt;a href=&#34;https://goo.gl/iGtivw&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017aah} O. Gutsche, &lt;strong&gt;Particle Physics - A world wide
+journey from recording particles to analysis using big computing&lt;/strong&gt;,
+(2017), Plenary Talk at the Chicago Council on Science &amp;amp; Technology
+Panel: &lt;a href=&#34;http://www.c2st.org/event/2017/09/fermilab-and-new-frontiers-physics&#34; target=&#34;_blank&#34;&gt;Fermilab and the New Frontiers of
+Physics&lt;/a&gt;,
+&lt;a href=&#34;https://goo.gl/wDB5SU&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017aag} O. Gutsche, &lt;strong&gt;CMS Analysis and Data Reduction
+with Apache Spark&lt;/strong&gt;, (2017), Parallel Session Talk at the 18th
+International Workshop on Advanced Computing and Analysis Techniques in
+Physics Research &lt;a href=&#34;https://indico.cern.ch/event/567550/&#34; target=&#34;_blank&#34;&gt;(ACAT 2017)&lt;/a&gt;,
+&lt;a href=&#34;https://indico.cern.ch/event/567550/contributions/2629602/attachments/1511348/2357033/170822_-_ACAT2017_-_Gutsche_-_CMS_Analysis_and_Data_Reduction_with_Apache_Spark.pdf&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017aaf} O. Gutsche, &lt;strong&gt;50 years Fermilab - Computing
+Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
+&lt;a href=&#34;https://indico.fnal.gov/event/12923/other-view?view=standard&#34; target=&#34;_blank&#34;&gt;Symposium&lt;/a&gt;,
+&lt;a href=&#34;https://indico.fnal.gov/event/12923/session/7/contribution/38/material/slides/0.pdf&#34; target=&#34;_blank&#34;&gt;(Material)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;list-of-articles-and-media-mentionings&#34;&gt;List of Articles and Media Mentionings&lt;/h1&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017aac} A. Purcell, &lt;strong&gt;Oliver Gutsche: Fermilab joins
+CERN openlab, works on data reduction project with CMS experiment&lt;/strong&gt;,
+(2017), Article in &lt;a href=&#34;http://openlab.cern/news&#34; target=&#34;_blank&#34;&gt;CERN openlab News&lt;/a&gt;,
+&lt;a href=&#34;http://openlab.cern/news/fermilab-joins-cern-openlab-works-?data-reduction?-project-cms-experiment-0&#34; target=&#34;_blank&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017aaa} M. May, &lt;strong&gt;Oliver Gutsche: A Spark in the
+dark&lt;/strong&gt;, (2017), Article in &lt;a href=&#34;http://ascr-discovery.science.doe.gov&#34; target=&#34;_blank&#34;&gt;ASCR
+Discovery&lt;/a&gt;,
+&lt;a href=&#34;http://ascr-discovery.science.doe.gov/2017/10/a-spark-in-the-dark/&#34; target=&#34;_blank&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[]{#ref-Gutsche:2017aab} M. May, &lt;strong&gt;Oliver Gutsche: Open-source software
+for data from high-energy physics&lt;/strong&gt;, (2017), Article in
+&lt;a href=&#34;https://phys.org&#34; target=&#34;_blank&#34;&gt;Phys.Org&lt;/a&gt;,
+&lt;a href=&#34;https://phys.org/news/2017-10-open-source-software-high-energy-physics.html&#34; target=&#34;_blank&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full List of Physics Publications with Major Personal Contributions can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Computing Publications with Major Personal Contributions can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Publications from all Collaborations and Experiments can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Presentations and Talks can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/talk_list/talk_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Full List of Articles and Media Mentionings can be found &lt;a href=&#34;https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>My First Post</title>
@@ -17,7 +997,253 @@
       <pubDate>Sun, 10 Jun 2018 22:34:34 +0000</pubDate>
       
       <guid>https://gutsche.github.io/posts/my-first-post/</guid>
-      <description>Tadaaa!</description>
+      <description>&lt;p&gt;Tadaaa!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://gutsche.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://gutsche.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://gutsche.github.io/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>https://gutsche.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&#39;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
+&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
+&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
+&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
+
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd My_Website
+git submodule update --init --recursive
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&#39;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
+
+&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://gutsche.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://gutsche.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

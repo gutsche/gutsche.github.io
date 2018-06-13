@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Oliver Gutsche</title>
+    <link>https://gutsche.github.io/home/</link>
+    <description>Recent content in Homes on Oliver Gutsche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gutsche.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://gutsche.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/home/about/</guid>
+      <description>I am a particle physicist and conduct leading edge research for New Physics Beyond the Standard Model of Particle Physics. This goes hand in hand with further consolidating the validity of the Standard Model in the absence of new physics signals.
+I have multiple years of experience in analyzing high-energy collisions at different particle colliders using a multitude of different techniques. I have published many papers in leading journals and am currently a member of the CMS collaboration at the Large Hadron Collider (LHC) at CERN.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gutsche.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

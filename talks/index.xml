@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Oliver Gutsche</title>
+    <link>https://gutsche.github.io/talks/</link>
+    <description>Recent content in Resume on Oliver Gutsche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 22:34:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://gutsche.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://gutsche.github.io/talks/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/talks/talks/</guid>
+      <description>List of Presentation and Talks O. Gutsche, The Future of Large Scale Scientific Computing, (2018), Colloquium given at the Physics Department at the University of Massachusetts Amherst, (Material)
+O. Gutsche, The Future of Large Scale Scientific Computing, (2017), Colloquium given at the Department of Physics and Astronomy at Texas Tech University, (Material)
+O. Gutsche, Particle Physics - A world wide journey from recording particles to analysis using big computing, (2017), Plenary Talk at the Chicago Council on Science &amp;amp; Technology Panel: Fermilab and the New Frontiers of Physics, (Material)</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gutsche.github.io/talks/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/talks/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

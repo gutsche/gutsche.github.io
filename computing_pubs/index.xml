@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Oliver Gutsche</title>
+    <link>https://gutsche.github.io/computing_pubs/</link>
+    <description>Recent content in Resume on Oliver Gutsche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 22:34:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://gutsche.github.io/computing_pubs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://gutsche.github.io/computing_pubs/computing_pubs/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/computing_pubs/computing_pubs/</guid>
+      <description>Computing Publications with Major Personal Contributions L. Bauerdick et al., HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation, (2018), arXiv:1804.03983 [physics.comp-ph]
+A.A. Alves Jr et al., A Roadmap for HEP Software and Computing R&amp;amp;D for the 2020s, (2017), arXiv:1712.06982 [physics.comp-ph]
+O. Gutsche et al., CMS Analysis and Data Reduction with Apache Spark, in: 18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017) Seattle, WA, USA, August 21-25, 2017, 2017.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gutsche.github.io/computing_pubs/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/computing_pubs/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

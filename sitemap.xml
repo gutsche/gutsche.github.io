@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>https://gutsche.github.io/blog/blog/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gutsche.github.io/computing_pubs/computing_pubs/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
@@ -59,7 +68,25 @@
     
     <url>
     
+      <loc>https://gutsche.github.io/blog/posts/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gutsche.github.io/articles/contact/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gutsche.github.io/blog/contact/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,25 +140,25 @@
     
     <url>
     
+      <loc>https://gutsche.github.io/post/180614-fnal-computing-postdoc-opening/</loc>
+      <lastmod>2018-06-14T13:41:30+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gutsche.github.io/blog/</loc>
+      <lastmod>2018-06-10T22:34:34+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gutsche.github.io/cv/</loc>
-      <lastmod>2018-06-10T22:34:34+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/posts/cv/</loc>
-      <lastmod>2018-06-10T22:34:34+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/posts/my-first-post/</loc>
       <lastmod>2018-06-10T22:34:34+00:00</lastmod>
     </url>
     
@@ -185,117 +212,7 @@
     
     <url>
     
-      <loc>https://gutsche.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://gutsche.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -314,18 +231,8 @@
     
     <url>
     
-      <loc>https://gutsche.github.io/posts/</loc>
-      <lastmod>2018-06-10T22:34:34+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://gutsche.github.io/post/</loc>
+      <lastmod>2018-06-14T13:41:30+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -335,7 +242,6 @@
     <url>
     
       <loc>https://gutsche.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

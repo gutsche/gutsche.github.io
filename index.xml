@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oliver Gutsche on Oliver Gutsche</title>
+    <title></title>
     <link>https://gutsche.github.io/</link>
-    <description>Recent content in Oliver Gutsche on Oliver Gutsche</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -421,6 +421,15 @@ Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
 
 &lt;hr /&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gutsche.github.io/techlab/techlab/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/techlab/techlab/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -917,6 +926,15 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
     </item>
     
     <item>
+      <title>TechLab Posts</title>
+      <link>https://gutsche.github.io/techlab/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/techlab/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://gutsche.github.io/articles/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -958,24 +976,6 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://gutsche.github.io/physics_pubs/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://gutsche.github.io/resume/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gutsche.github.io/resume/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://gutsche.github.io/talks/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gutsche.github.io/talks/contact/</guid>
       <description></description>
     </item>
     

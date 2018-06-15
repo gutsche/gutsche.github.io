@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on </title>
-    <link>https://gutsche.github.io/blog/</link>
-    <description>Recent content in Blog on </description>
+    <title>TechLab on </title>
+    <link>https://gutsche.github.io/techlab/</link>
+    <description>Recent content in TechLab on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 10 Jun 2018 22:34:34 +0000</lastBuildDate>
     
-	<atom:link href="https://gutsche.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gutsche.github.io/techlab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://gutsche.github.io/blog/blog/</link>
+      <link>https://gutsche.github.io/techlab/techlab/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gutsche.github.io/blog/blog/</guid>
+      <guid>https://gutsche.github.io/techlab/techlab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blog Posts</title>
-      <link>https://gutsche.github.io/blog/posts/</link>
+      <title>TechLab Posts</title>
+      <link>https://gutsche.github.io/techlab/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gutsche.github.io/blog/posts/</guid>
+      <guid>https://gutsche.github.io/techlab/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://gutsche.github.io/blog/contact/</link>
+      <link>https://gutsche.github.io/techlab/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gutsche.github.io/blog/contact/</guid>
+      <guid>https://gutsche.github.io/techlab/contact/</guid>
       <description></description>
     </item>
     

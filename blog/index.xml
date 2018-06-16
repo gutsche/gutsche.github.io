@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on </title>
+    <title>Blog on Oliver Gutsche</title>
     <link>https://gutsche.github.io/blog/</link>
-    <description>Recent content in Blog on </description>
+    <description>Recent content in Blog on Oliver Gutsche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,20 +13,20 @@
     
     
     <item>
-      <title></title>
-      <link>https://gutsche.github.io/blog/blog/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gutsche.github.io/blog/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blog Posts</title>
       <link>https://gutsche.github.io/blog/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://gutsche.github.io/blog/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TechLab Posts</title>
+      <link>https://gutsche.github.io/blog/posts2/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/blog/posts2/</guid>
       <description></description>
     </item>
     

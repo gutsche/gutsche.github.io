@@ -14,15 +14,6 @@
     
     <url>
     
-      <loc>https://gutsche.github.io/blog/blog/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://gutsche.github.io/computing_pubs/computing_pubs/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
@@ -59,15 +50,6 @@
     
     <url>
     
-      <loc>https://gutsche.github.io/techlab/techlab/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://gutsche.github.io/cv/cv/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
@@ -86,7 +68,7 @@
     
     <url>
     
-      <loc>https://gutsche.github.io/techlab/posts/</loc>
+      <loc>https://gutsche.github.io/blog/posts2/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -150,15 +132,6 @@
     <url>
     
       <loc>https://gutsche.github.io/talks/contact/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/techlab/contact/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -248,8 +221,8 @@
     
     <url>
     
-      <loc>https://gutsche.github.io/techlab/</loc>
-      <lastmod>2018-06-10T22:34:34+00:00</lastmod>
+      <loc>https://gutsche.github.io/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -259,15 +232,6 @@
     
       <loc>https://gutsche.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://gutsche.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     

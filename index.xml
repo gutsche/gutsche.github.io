@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Oliver Gutsche on Oliver Gutsche</title>
     <link>https://gutsche.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Oliver Gutsche on Oliver Gutsche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -46,16 +46,6 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
 &lt;p&gt;published on: 14. June 2018&lt;/p&gt;
 
 &lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gutsche.github.io/blog/blog/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gutsche.github.io/blog/blog/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://gutsche.github.io/img/headers/fnal-wh-with-logo.jpg&#34; alt=&#34;Fermilab Wilson Hall Panorama&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -421,15 +411,6 @@ Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
 
 &lt;hr /&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gutsche.github.io/techlab/techlab/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gutsche.github.io/techlab/techlab/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -927,10 +908,10 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
     
     <item>
       <title>TechLab Posts</title>
-      <link>https://gutsche.github.io/techlab/posts/</link>
+      <link>https://gutsche.github.io/blog/posts2/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gutsche.github.io/techlab/posts/</guid>
+      <guid>https://gutsche.github.io/blog/posts2/</guid>
       <description></description>
     </item>
     
@@ -976,6 +957,24 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://gutsche.github.io/physics_pubs/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gutsche.github.io/resume/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/resume/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gutsche.github.io/talks/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gutsche.github.io/talks/contact/</guid>
       <description></description>
     </item>
     

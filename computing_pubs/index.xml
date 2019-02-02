@@ -18,9 +18,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://gutsche.github.io/computing_pubs/computing_pubs/</guid>
-      <description>Computing Publications with Major Personal Contributions L. Bauerdick et al., HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation, (2018), arXiv:1804.03983 [physics.comp-ph]
+      <description>Computing Publications with Major Personal Contributions M. Cremonesi et al., Using Big Data Technologies for HEP Analysis, (2019), arXiv:1901.07143 [cs.DC]
+L. Bauerdick et al., HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation, (2018), arXiv:1804.03983 [physics.comp-ph]
 D. Berzano et al., HEP Software Foundation Community White Paper Working Group -- Data Organization, Management and Access (DOMA), (2018), arXiv:1812.00761 [physics.comp-ph]
-O. Gutsche et al., CMS Analysis and Data Reduction with Apache Spark, J. Phys. Conf. Ser. 1085 (2018) 042030, doi:10.1088/1742-6596/1085/4/042030, arXiv:1711.00375 [cs.</description>
+J. Chang et al., Striped Data Server for Scalable Parallel Data Analysis, J.</description>
     </item>
     
     <item>

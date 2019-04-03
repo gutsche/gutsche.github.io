@@ -43,7 +43,7 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. March 2019&lt;/p&gt;
+&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -58,6 +58,11 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
       <description>
 
 &lt;h1 id=&#34;computing-publications-with-major-personal-contributions&#34;&gt;Computing Publications with Major Personal Contributions&lt;/h1&gt;
+
+&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;J. Albrecht et al., &lt;strong&gt;A Roadmap for HEP Software
+and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, &lt;em&gt;Comput. Softw. Big Sci.&lt;/em&gt; 3 (2019) 7,
+doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-018-0018-8&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-018-0018-8&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;!--#ref-Cremonesi:2019pdq--&gt;M. Cremonesi et al., &lt;strong&gt;Using Big Data
 Technologies for HEP Analysis&lt;/strong&gt;, (2019), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1901.07143&#34; target=&#34;_blank&#34;&gt;1901.07143
@@ -83,11 +88,6 @@ Reduction with Apache Spark&lt;/strong&gt;, &lt;em&gt;J. Phys. Conf. Ser.&lt;/em
 doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/1085/4/042030&#34; target=&#34;_blank&#34;&gt;10.1088/1742-6596/1085/4/042030&lt;/a&gt;,
 arXiv:&lt;a href=&#34;http://arxiv.org/abs/1711.00375&#34; target=&#34;_blank&#34;&gt;1711.00375 [cs.DC]&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;J. Albrecht et al., &lt;strong&gt;A Roadmap for HEP Software
-and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, (2017),
-doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-018-0018-8&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-018-0018-8&lt;/a&gt;,
-arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;!--#ref-Gutsche:2017weq--&gt;O. Gutsche et al., &lt;strong&gt;Big Data in HEP: A
 comprehensive use case study&lt;/strong&gt;, &lt;em&gt;J. Phys. Conf. Ser.&lt;/em&gt; 898 (2017) 072012,
 doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/898/7/072012&#34; target=&#34;_blank&#34;&gt;10.1088/1742-6596/898/7/072012&lt;/a&gt;,
@@ -103,7 +103,7 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1703.04171&#34; target=&#34;_blank&#3
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. March 2019&lt;/p&gt;
+&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -173,7 +173,7 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1207.7235&#34; target=&#34;_blank&#34
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. March 2019&lt;/p&gt;
+&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -339,6 +339,11 @@ at $\sqrt s=8$ TeV&lt;/strong&gt;, &lt;em&gt;Phys. Lett.&lt;/em&gt; B760 (2016) 
 doi:&lt;a href=&#34;https://doi.org/10.1016/j.physletb.2016.07.006&#34; target=&#34;_blank&#34;&gt;10.1016/j.physletb.2016.07.006&lt;/a&gt;,
 arXiv:&lt;a href=&#34;http://arxiv.org/abs/1603.06221&#34; target=&#34;_blank&#34;&gt;1603.06221 [hep-ex]&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;J. Albrecht et al., &lt;strong&gt;A Roadmap for HEP Software
+and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, &lt;em&gt;Comput. Softw. Big Sci.&lt;/em&gt; 3 (2019) 7,
+doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-018-0018-8&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-018-0018-8&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;!--#ref-Cremonesi:2019pdq--&gt;M. Cremonesi et al., &lt;strong&gt;Using Big Data
 Technologies for HEP Analysis&lt;/strong&gt;, (2019), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1901.07143&#34; target=&#34;_blank&#34;&gt;1901.07143
 [cs.DC]&lt;/a&gt;&lt;/p&gt;
@@ -347,11 +352,6 @@ Technologies for HEP Analysis&lt;/strong&gt;, (2019), arXiv:&lt;a href=&#34;http
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1804.03983&#34; target=&#34;_blank&#34;&gt;1804.03983
 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;J. Albrecht et al., &lt;strong&gt;A Roadmap for HEP Software
-and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, (2017),
-doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-018-0018-8&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-018-0018-8&lt;/a&gt;,
-arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -363,7 +363,7 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#3
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. March 2019&lt;/p&gt;
+&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -415,7 +415,7 @@ Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. March 2019&lt;/p&gt;
+&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -825,6 +825,11 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1207.7235&#34; target=&#34;_blank&#34
 
 &lt;h2 id=&#34;computing-publications-with-major-personal-contributions&#34;&gt;Computing Publications with Major Personal Contributions&lt;/h2&gt;
 
+&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;J. Albrecht et al., &lt;strong&gt;A Roadmap for HEP Software
+and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, &lt;em&gt;Comput. Softw. Big Sci.&lt;/em&gt; 3 (2019) 7,
+doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-018-0018-8&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-018-0018-8&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;!--#ref-Cremonesi:2019pdq--&gt;M. Cremonesi et al., &lt;strong&gt;Using Big Data
 Technologies for HEP Analysis&lt;/strong&gt;, (2019), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1901.07143&#34; target=&#34;_blank&#34;&gt;1901.07143
 [cs.DC]&lt;/a&gt;&lt;/p&gt;
@@ -848,11 +853,6 @@ doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/1085/4/042035&#34; target=
 Reduction with Apache Spark&lt;/strong&gt;, &lt;em&gt;J. Phys. Conf. Ser.&lt;/em&gt; 1085 (2018) 042030,
 doi:&lt;a href=&#34;https://doi.org/10.1088/1742-6596/1085/4/042030&#34; target=&#34;_blank&#34;&gt;10.1088/1742-6596/1085/4/042030&lt;/a&gt;,
 arXiv:&lt;a href=&#34;http://arxiv.org/abs/1711.00375&#34; target=&#34;_blank&#34;&gt;1711.00375 [cs.DC]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!--#ref-Alves:2017she--&gt;J. Albrecht et al., &lt;strong&gt;A Roadmap for HEP Software
-and Computing R&amp;amp;D for the 2020s&lt;/strong&gt;, (2017),
-doi:&lt;a href=&#34;https://doi.org/10.1007/s41781-018-0018-8&#34; target=&#34;_blank&#34;&gt;10.1007/s41781-018-0018-8&lt;/a&gt;,
-arXiv:&lt;a href=&#34;http://arxiv.org/abs/1712.06982&#34; target=&#34;_blank&#34;&gt;1712.06982 [physics.comp-ph]&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;!--#ref-Gutsche:2017weq--&gt;O. Gutsche et al., &lt;strong&gt;Big Data in HEP: A
 comprehensive use case study&lt;/strong&gt;, &lt;em&gt;J. Phys. Conf. Ser.&lt;/em&gt; 898 (2017) 072012,
@@ -919,7 +919,7 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. March 2019&lt;/p&gt;
+&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>

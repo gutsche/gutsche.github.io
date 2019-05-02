@@ -43,7 +43,7 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
+&lt;p&gt;published on: 02. May 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -103,7 +103,7 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1703.04171&#34; target=&#34;_blank&#3
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
+&lt;p&gt;published on: 02. May 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -121,9 +121,10 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1703.04171&#34; target=&#34;_blank&#3
 
 &lt;p&gt;&lt;!--#ref-Sirunyan:2018gdw--&gt;A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV&lt;/strong&gt;, &lt;em&gt;Submitted
-to: Eur. Phys. J.&lt;/em&gt; (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1811.06562&#34; target=&#34;_blank&#34;&gt;1811.06562
-[hep-ex]&lt;/a&gt;&lt;/p&gt;
+quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$&lt;/strong&gt;, &lt;em&gt;Eur.
+Phys. J.&lt;/em&gt; C79 (2019) 280,
+doi:&lt;a href=&#34;https://doi.org/10.1140/epjc/s10052-019-6730-7&#34; target=&#34;_blank&#34;&gt;10.1140/epjc/s10052-019-6730-7&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1811.06562&#34; target=&#34;_blank&#34;&gt;1811.06562 [hep-ex]&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;!--#ref-Sirunyan:2018gka--&gt;A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
@@ -173,7 +174,7 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1207.7235&#34; target=&#34;_blank&#34
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
+&lt;p&gt;published on: 02. May 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -329,9 +330,10 @@ arXiv:&lt;a href=&#34;http://arxiv.org/abs/1207.7235&#34; target=&#34;_blank&#34
 
 &lt;p&gt;&lt;!--#ref-Sirunyan:2018gdw--&gt;A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV&lt;/strong&gt;, &lt;em&gt;Submitted
-to: Eur. Phys. J.&lt;/em&gt; (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1811.06562&#34; target=&#34;_blank&#34;&gt;1811.06562
-[hep-ex]&lt;/a&gt;&lt;/p&gt;
+quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$&lt;/strong&gt;, &lt;em&gt;Eur.
+Phys. J.&lt;/em&gt; C79 (2019) 280,
+doi:&lt;a href=&#34;https://doi.org/10.1140/epjc/s10052-019-6730-7&#34; target=&#34;_blank&#34;&gt;10.1140/epjc/s10052-019-6730-7&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1811.06562&#34; target=&#34;_blank&#34;&gt;1811.06562 [hep-ex]&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;!--#ref-Khachatryan:2016ysn--&gt;V. Khachatryan et al., &lt;strong&gt;Measurements of
 $t \bar t$ charge asymmetry using dilepton final states in pp collisions
@@ -363,7 +365,7 @@ Interpretation&lt;/strong&gt;, (2018), arXiv:&lt;a href=&#34;http://arxiv.org/ab
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
+&lt;p&gt;published on: 02. May 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -415,7 +417,7 @@ Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
+&lt;p&gt;published on: 02. May 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -762,6 +764,13 @@ Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
 
 &lt;p&gt;During my graduate student time at DESY from 2001 to 2005, I was one of the proponents and lead developers of a new object-oriented and ROOT-based event display. The upgrade of the ZEUS detector made it necessary to integrate the new and changed detector components in the event visualization solution of ZEUS. A client-server structure allowed physicists to display events without direct access to the event store. Online events could also be displayed worldwide with very small latency during data taking.&lt;/p&gt;
 
+&lt;h3 id=&#34;committees&#34;&gt;Committees&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 2015 - October 2016: Fermilab&#39;s Scientific Advisory Council&lt;/li&gt;
+&lt;li&gt;October 2018 - October 2020: Fermilab&#39;s Users Executive Committee&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&#34;other-professional-activities&#34;&gt;Other Professional Activities&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -781,9 +790,10 @@ Innovations&lt;/strong&gt;, (2017), Talk at the Fermilab 50th Anniversary
 
 &lt;p&gt;&lt;!--#ref-Sirunyan:2018gdw--&gt;A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV&lt;/strong&gt;, &lt;em&gt;Submitted
-to: Eur. Phys. J.&lt;/em&gt; (2018), arXiv:&lt;a href=&#34;http://arxiv.org/abs/1811.06562&#34; target=&#34;_blank&#34;&gt;1811.06562
-[hep-ex]&lt;/a&gt;&lt;/p&gt;
+quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$&lt;/strong&gt;, &lt;em&gt;Eur.
+Phys. J.&lt;/em&gt; C79 (2019) 280,
+doi:&lt;a href=&#34;https://doi.org/10.1140/epjc/s10052-019-6730-7&#34; target=&#34;_blank&#34;&gt;10.1140/epjc/s10052-019-6730-7&lt;/a&gt;,
+arXiv:&lt;a href=&#34;http://arxiv.org/abs/1811.06562&#34; target=&#34;_blank&#34;&gt;1811.06562 [hep-ex]&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;!--#ref-Sirunyan:2018gka--&gt;A.M. Sirunyan et al., &lt;strong&gt;Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
@@ -919,7 +929,7 @@ for data from high-energy physics&lt;/strong&gt;, (2017), Article in
 
 &lt;hr /&gt;
 
-&lt;p&gt;published on: 03. April 2019&lt;/p&gt;
+&lt;p&gt;published on: 02. May 2019&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>

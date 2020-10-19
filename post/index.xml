@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Oliver Gutsche</title>
-    <link>https://gutsche.github.io/post/</link>
-    <description>Recent content in Posts on Oliver Gutsche</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 15 Jun 2018 13:41:30 +0000</lastBuildDate>
-    
-	<atom:link href="https://gutsche.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>E-Mail</title>
-      <link>https://gutsche.github.io/post/180615-email/</link>
-      <pubDate>Fri, 15 Jun 2018 13:41:30 +0000</pubDate>
-      
-      <guid>https://gutsche.github.io/post/180615-email/</guid>
-      <description>For many people, e-mail is taking up a significant portion of their work time. A lot of this time is spent sorting through an enormous amount of unread e-mail received every day, filtering out what needs to be read and what needs to be answered. This inevitably leads to e-mails that are not read by the end of the day. This starts a vicious circle of accumulating unread e-mails, and can end up in thousands of unread e-mails.</description>
-    </item>
-    
-    <item>
-      <title>Fermilab CMS PostDoc Opening Targeted for Computing</title>
-      <link>https://gutsche.github.io/post/180614-fnal-computing-postdoc-opening/</link>
-      <pubDate>Thu, 14 Jun 2018 13:41:30 +0000</pubDate>
-      
-      <guid>https://gutsche.github.io/post/180614-fnal-computing-postdoc-opening/</guid>
-      <description>I am very excited, Fermilab just opened a PostDoc position in the CMS group. The PostDoc will have the opportunity to do cutting edge High Energy Physics (HEP) research with the CMS data from the Large Hadron Collider (LHC). This is the first time that the technical part of a Fermilab CMS PostDoc position is for scientific computing topics. Please have a look at the job opening:
-https://academicjobsonline.org/ajo/jobs/11250
-We are looking for excellent candidates who are about to graduate or who have graduated in HEP and who are also very interested in scientific computing.</description>
-    </item>
+    <title>Posts | Academic</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
     
   </channel>
 </rss>

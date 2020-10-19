@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliver Gutsche</title>
+    <link>https://gutsche.github.io/author/oliver-gutsche/</link>
+      <atom:link href="https://gutsche.github.io/author/oliver-gutsche/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oliver Gutsche</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Oliver Gutsche 2020</copyright>
+    <image>
+      <url>https://gutsche.github.io/author/oliver-gutsche/avatar_hu6e85bc67df3a33d1364e2339699cfe26_371115_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Oliver Gutsche</title>
+      <link>https://gutsche.github.io/author/oliver-gutsche/</link>
+    </image>
+    
+  </channel>
+</rss>

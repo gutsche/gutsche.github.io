@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <title>Oliver Gutsche</title>
+    <link>https://gutsche.github.io/</link>
+      <atom:link href="https://gutsche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oliver Gutsche</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Oliver Gutsche 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <url>https://gutsche.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Oliver Gutsche</title>
+      <link>https://gutsche.github.io/</link>
     </image>
+    
+    <item>
+      <title>Articles</title>
+      <link>https://gutsche.github.io/articles/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gutsche.github.io/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Publications</title>
+      <link>https://gutsche.github.io/computing_pubs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gutsche.github.io/computing_pubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://gutsche.github.io/cv/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gutsche.github.io/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics Publications</title>
+      <link>https://gutsche.github.io/physics_pubs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gutsche.github.io/physics_pubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://gutsche.github.io/resume/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gutsche.github.io/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://gutsche.github.io/talks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gutsche.github.io/talks/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

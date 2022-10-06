@@ -1,62 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://gutsche.github.io/articles/</loc>
     <lastmod>2020-10-20T11:27:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gutsche.github.io/computing_pubs/</loc>
     <lastmod>2020-10-20T11:27:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gutsche.github.io/cv/</loc>
     <lastmod>2020-10-20T11:27:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gutsche.github.io/</loc>
-    <lastmod>2020-10-20T11:27:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gutsche.github.io/physics_pubs/</loc>
     <lastmod>2020-10-20T11:27:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gutsche.github.io/resume/</loc>
     <lastmod>2020-10-20T11:27:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gutsche.github.io/talks/</loc>
     <lastmod>2020-10-20T11:27:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gutsche.github.io/authors/</loc>
-    <lastmod>2022-08-01T15:01:45-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-01T16:39:35-05:00</lastmod>
+  </url><url>
     <loc>https://gutsche.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://gutsche.github.io/</loc>
+    <lastmod>2022-09-01T16:39:35-05:00</lastmod>
+  </url><url>
     <loc>https://gutsche.github.io/author/oliver-gutsche/</loc>
-    <lastmod>2022-08-01T15:01:45-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-01T16:39:35-05:00</lastmod>
+  </url><url>
     <loc>https://gutsche.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gutsche.github.io/tags/</loc>
   </url>
-  
 </urlset>
